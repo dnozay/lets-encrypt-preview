@@ -1,4 +1,4 @@
-Build status: [![Build Status](https://travis-ci.org/letsencrypt/lets-encrypt-preview.svg?branch=master)](https://travis-ci.org/letsencrypt/lets-encrypt-preview)
+Build status: [![Build Status](https://travis-ci.org/dnozay/lets-encrypt-preview.svg?branch=dnozay-master)](https://travis-ci.org/dnozay/lets-encrypt-preview)
 
 This is the Let's Encrypt Agent **DEVELOPER PREVIEW** repository.
 
